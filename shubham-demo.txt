@@ -1,2 +1,0 @@
-hello  dosto
-First repo created in github through gui
